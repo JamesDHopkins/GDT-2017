@@ -1,8 +1,12 @@
-# gdt-2017
+# GDT-2017
 Game Development Tool for a touch screen device written in Arduino C
 
 GDT 2017 
 Game Dev Tool README
+
+Note* : This is a cloned repository from the original which can be found at https://github.com/harrisondowns
+
+My personal contributions were mainly BaseEngine.ino, BGColor.ino, MapSelect.ino, and some work in GDT.ino
 
 This program was written as part of Polyhack, the Tufts University fall hackathon. The three team members were Harrison Downs, Jason Iskendarian, and James Hopkins.
 
