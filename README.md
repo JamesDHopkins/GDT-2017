@@ -40,3 +40,6 @@ SetVar.ino lets the user specify the parameters of a set variable event. The var
 
 TransferMaker.ino lets the user specify the parameters for a transfer event. A transfer event takes the x, y coordinates that the player will teleport to and the map ID of the map to go to.
 
+Example image:
+
+![arduino device running GDT tool](sample_images/example.png)
