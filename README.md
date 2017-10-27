@@ -42,4 +42,4 @@ TransferMaker.ino lets the user specify the parameters for a transfer event. A t
 
 Example image:
 
-![arduino device running GDT tool](sample_images/example.png)
+![arduino device running GDT tool](sample_images/example.JPG)
